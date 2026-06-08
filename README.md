@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Priyanka N
 
-🎓 B.Tech Information Technology Student (CGPA: 9.30)
-
-💻 Aspiring Software Engineer | Full Stack Developer | Problem Solver
-
-🚀 Passionate about building scalable applications and solving real-world problems through code
+* 🎓 B.Tech Information Technology Student (CGPA: 9.30)
+* 💻 Aspiring Software Engineer | Full Stack Developer | Problem Solver
+* 🚀 Passionate about building scalable applications and solving real-world problems through code
 
 ---
 
 ## 🔥 About Me
 
-💡 Strong foundation in Data Structures, DBMS, OOP, and REST API Development
-🌱 Currently sharpening my skills in Full Stack Development and Advanced Problem Solving
-⚙️ Hands-on experience in React, PostgreSQL, Authentication Systems, and API Integration
-🧠 Solved 200+ problems on LeetCode with consistent coding practice
-🎯 Focused on becoming a strong Software Development Engineer
+* 💡 Strong foundation in Data Structures, DBMS, OOP, and REST API Development
+* 🌱 Currently sharpening my skills in Full Stack Development and Advanced Problem Solving
+* ⚙️ Hands-on experience in React, PostgreSQL, Authentication Systems, and API Integration
+* 🧠 Solved 200+ problems on LeetCode with consistent coding practice
+* 🎯 Focused on becoming a strong Software Development Engineer
 
 ---
 
@@ -97,9 +95,9 @@
 
 ## 🏆 Certifications
 
-✔ Python for Data Science – NPTEL
-✔ Programming in Java – NPTEL
-✔ SQL (Intermediate) – HackerRank
+* ✔ Python for Data Science – NPTEL
+* ✔ Programming in Java – NPTEL
+* ✔ SQL (Intermediate) – HackerRank
 
 ---
 
@@ -116,26 +114,26 @@
 
 ## 📈 Coding Profile
 
-💻 **LeetCode:** Priyanka_N2781
-🏆 **200+ Problems Solved**
-🔗 **Profile:** https://leetcode.com/u/Priyanka_N2781/
+* 💻 **LeetCode:** Priyanka_N2781
+* 🏆 **200+ Problems Solved**
+* 🔗 **Profile:** https://leetcode.com/u/Priyanka_N2781/
 
 ---
 
 ## 🎯 Current Focus
 
-✔ Mastering Full Stack Development
-✔ Strengthening DSA for Placements
-✔ Building AI-Powered Applications
-✔ Preparing for Software Developer Roles
+* ✔ Mastering Full Stack Development
+* ✔ Strengthening DSA for Placements
+* ✔ Building AI-Powered Applications
+* ✔ Preparing for Software Developer Roles
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/priyanka1826
-🌐 Portfolio: https://verdant-nasturtium-b8e210.netlify.app
-📧 Email: [priyanka.n2781@gmail.com](mailto:priyanka.n2781@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/priyanka1826
+* 🌐 Portfolio: https://verdant-nasturtium-b8e210.netlify.app
+* 📧 Email: [priyanka.n2781@gmail.com](mailto:priyanka.n2781@gmail.com)
 
 ---
 
