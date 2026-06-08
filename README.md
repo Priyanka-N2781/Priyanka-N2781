@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Priyanka N
 
 🎓 B.Tech Information Technology Student (CGPA: 9.30)
+
 💻 Aspiring Software Engineer | Full Stack Developer | Problem Solver
+
 🚀 Passionate about building scalable applications and solving real-world problems through code
 
 ---
